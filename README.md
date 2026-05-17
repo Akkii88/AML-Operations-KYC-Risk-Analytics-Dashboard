@@ -21,12 +21,30 @@ The project replicates real-world processes including:
 
 ### Project Screenshots
 
-![Streamlit Dashboard 1](./Dashboards/Streamlit/01.png)
-![Streamlit Dashboard 2](./Dashboards/Streamlit/02.png)
-![Excel Dashboard 1](./Dashboards/Excel/01.png)
-![Excel Dashboard 2](./Dashboards/Excel/02.png)
-![Investigation Tracker](./Dashboards/Excel/07.png)
-![High-Risk Monitoring](./Dashboards/Excel/08.png)
+**Streamlit AML Analyst Dashboard**
+
+![Streamlit 01](./Dashboards/Streamlit/01.png)
+![Streamlit 02](./Dashboards/Streamlit/02.png)
+![Streamlit 03](./Dashboards/Streamlit/03.png)
+![Streamlit 04](./Dashboards/Streamlit/04.png)
+![Streamlit 05](./Dashboards/Streamlit/05.png)
+![Streamlit 06](./Dashboards/Streamlit/06.png)
+![Streamlit 07](./Dashboards/Streamlit/07.png)
+![Streamlit 08](./Dashboards/Streamlit/08.png)
+![Streamlit 09](./Dashboards/Streamlit/09.png)
+
+**Excel Executive Dashboard & MIS Reporting**
+
+![Excel 01](./Dashboards/Excel/01.png)
+![Excel 02](./Dashboards/Excel/02.png)
+![Excel 03](./Dashboards/Excel/03.png)
+![Excel 04](./Dashboards/Excel/04.png)
+![Excel 05](./Dashboards/Excel/05.png)
+![Excel 06](./Dashboards/Excel/06.png)
+![Excel 07](./Dashboards/Excel/07.png)
+![Excel 08](./Dashboards/Excel/08.png)
+![Excel 09](./Dashboards/Excel/09.png)
+![Excel 10](./Dashboards/Excel/10.png)
 
 ---
 
